@@ -1,0 +1,22 @@
+
+{
+  "short_name": "AI CREATOR",
+  "name": "MAXBOOSTED AI CREATOR",
+  "description": "An application that allows users to edit images and generate videos using text prompts with powerful AI models. Users can upload an image, provide an editing instruction, and generate a new version of the image or create videos from scratch.",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}

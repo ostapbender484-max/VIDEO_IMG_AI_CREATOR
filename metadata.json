@@ -1,0 +1,5 @@
+{
+  "name": "MAXBOOSTED AI CREATOR",
+  "description": "An application that allows users to edit images and generate videos using text prompts with powerful AI models. Users can upload an image, provide an editing instruction, and generate a new version of the image or create videos from scratch.",
+  "requestFramePermissions": []
+}
